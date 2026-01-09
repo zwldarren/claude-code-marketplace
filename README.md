@@ -2,6 +2,14 @@
 
 Claude Code Plugin Marketplace by [zwldarren](https://github.com/zwldarren)
 
+## Quick Start
+
+In Claude Code, run this command to add this marketplace:
+
+```
+/plugin marketplace add zwldarren/claude-code-marketplace
+```
+
 ## Plugins
 
 ### ty-lsp
