@@ -1,0 +1,24 @@
+{
+  "name": "zwldarren-marketplace",
+  "owner": {
+    "name": "zwldarren",
+    "email": "zwldarren@gmail.com"
+  },
+  "metadata": {
+    "description": "Claude Code Plugin Marketplace by zwldarren",
+    "version": "1.0.0",
+    "homepage": "https://github.com/zwldarren/claude-code-marketplace",
+    "author": "zwldarren"
+  },
+  "plugins": [
+    {
+      "name": "ty-lsp",
+      "description": "An extremely fast Python type checker and language server, written in Rust.",
+      "homepage": "https://docs.astral.sh/ty/",
+      "source": "./plugins/ty-lsp",
+      "license": "MIT",
+      "repository": "https://github.com/astral-sh/ty",
+      "category": "development"
+    }
+  ]
+}
