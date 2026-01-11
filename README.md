@@ -14,10 +14,11 @@ In Claude Code, run this command to add this marketplace:
 
 ### ty-lsp
 
-Python language server for Claude Code from the [ty](https://github.com/astral-sh/ty)
+- Python language server for Claude Code from the [ty](https://github.com/astral-sh/ty)
 
-- **Command**: `ty server`
-- **Category**: development
+### ruff
+
+- Ruff linter plugin for Claude Code from the [ruff](https://github.com/astral-sh/ruff)
 
 ## License
 
