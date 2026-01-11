@@ -21,10 +21,10 @@
       "category": "development"
     },
     {
-      "name": "ruff-lsp",
+      "name": "ruff",
       "description": "Ruff is a blazing fast Python linter, written in Rust.",
       "homepage": "https://docs.astral.sh/ruff/",
-      "source": "./plugins/ruff-lsp",
+      "source": "./plugins/ruff",
       "license": "MIT",
       "repository": "https://github.com/astral-sh/ruff",
       "category": "development"
