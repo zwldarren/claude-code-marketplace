@@ -24,7 +24,7 @@
       "name": "scrapling",
       "description": "An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "homepage": "https://scrapling.readthedocs.io/en/latest/",
-      "source": "./plugins/scrapling",
+      "source": "./plugins/Scrapling-Skill",
       "license": "BSD-3-Clause",
       "repository": "https://github.com/D4Vinci/Scrapling"
     }
