@@ -1,7 +1,0 @@
-{
-  "name": "ruff",
-  "description": " An extremely fast Python linter and code formatter, written in Rust. ",
-  "author": {
-    "name": "Astral"
-  }
-}

@@ -1,0 +1,8 @@
+{
+    "name": "scrapling",
+    "description": "An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "version": "0.4.2",
+    "author": {
+        "name": "Karim shoair"
+    }
+}

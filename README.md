@@ -16,9 +16,9 @@ In Claude Code, run this command to add this marketplace:
 
 - Python language server for Claude Code from the [ty](https://github.com/astral-sh/ty)
 
-### ruff
+### scrapling
 
-- Ruff linter plugin for Claude Code from the [ruff](https://github.com/astral-sh/ruff)
+- An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 
 ## License
 
